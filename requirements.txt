@@ -7,6 +7,7 @@ scipy
 scikit-learn
 jupyterlab
 ipykernel
+geopandas
 
 # Additional tools
 plotly       # Interactive visualizations
